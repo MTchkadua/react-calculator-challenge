@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-calculator-challenge/static/css/main.569a66fa.css",
+    "main.js": "/react-calculator-challenge/static/js/main.319f93ed.js",
+    "index.html": "/react-calculator-challenge/index.html",
+    "main.569a66fa.css.map": "/react-calculator-challenge/static/css/main.569a66fa.css.map",
+    "main.319f93ed.js.map": "/react-calculator-challenge/static/js/main.319f93ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.569a66fa.css",
+    "static/js/main.319f93ed.js"
+  ]
+}
